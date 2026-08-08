@@ -1,2 +1,2 @@
 # QA Portfolio Website Kelly
-https://graykelly.github.io/kelly.github.io
+My Profile => https://graykelly.github.io/kelly
