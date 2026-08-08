@@ -1098,6 +1098,27 @@ footer{
 
 }
 
+.contact {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    flex-wrap: wrap;
+}
+
+.contact-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: #2563eb;
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.contact-item:hover {
+    color: #1d4ed8;
+    transform: translateY(-2px);
+}
+
 /* ==========================================================
    BACK TO TOP
 ==========================================================*/
